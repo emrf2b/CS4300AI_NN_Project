@@ -3,3 +3,4 @@
 
 This project attempts to predict proportion of top-ten placement at PGA tournaments using data of 195 professional golfer from the year 2017
 The input features used to build the models are Average Distance Drived, and Experience Measure(number of rounds played in the year*whole number age), and an Accuracy Measure(to hold in 2 shots*percentage of fairways hit).
+A basic linear regression model and a more sophisticated linear neural network are used and compared to analyze predictive quality.
