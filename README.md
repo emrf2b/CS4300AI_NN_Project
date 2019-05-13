@@ -1,4 +1,4 @@
-## Comparing Predictive Techniques in AI Using PGA Golf Data: Linear Regression, Logistic Regression, and Multilayered Neural Network 
+## Comparing Predictive Techniques in AI Using PGA Golf Data: Linear Regression and Feed-Forward Neural Networks 
 ### Spring 2019 Artificial Intelligence Neural Network Semester Project - PGA Top-Tens 
 
 This project attempts to predict proportion of top-ten placement at PGA tournaments using data of 195 professional golfer from the year 2017
